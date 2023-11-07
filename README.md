@@ -20,6 +20,8 @@ Taster
 # MOBILE
 ![cover_mobile_3](https://github.com/Moonamee/Taster-Eat-landing-page/assets/116831065/00600f82-bb52-4919-a559-39d7ea54546e)
 
+![cover_mobile](https://github.com/Moonamee/Taster-Eat-landing-page/assets/116831065/9784ac59-cde0-4059-8b0e-f3d476681357)
+
 ![cover_mobile_2](https://github.com/Moonamee/Taster-Eat-landing-page/assets/116831065/02b95fff-2c49-48db-9be0-90ffcbc42b46)
 
-![cover_mobile](https://github.com/Moonamee/Taster-Eat-landing-page/assets/116831065/9784ac59-cde0-4059-8b0e-f3d476681357)
+
