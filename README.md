@@ -7,5 +7,5 @@ Taster
 
 → Жанр: #LandingPage
 → Язык: #EN
-→ Адаптив: Есть (Desctop, Laptop, Tablet, Mobile)
+→ Адаптив: Есть (Desktop, Laptop, Tablet, Mobile)
 
