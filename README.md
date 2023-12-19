@@ -1,5 +1,7 @@
 # Taster: Platform and quick start restaurateurs
 
+https://moonamee.github.io/Taster-Eat-landing-page/
+
 # DESKTOP
 ![cover](https://github.com/Moonamee/Taster-Eat-landing-page/assets/116831065/ac779e0a-9fbf-4245-8140-710e12943eaa)
 
